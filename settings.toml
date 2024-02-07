@@ -1,0 +1,11 @@
+[default]
+
+[local]
+DB_URL= postgresql://localhost:5432/dragon-db
+DB_USER = wangjialong
+DB_PASSWORD = 123456
+
+
+[test]
+
+[prod]
