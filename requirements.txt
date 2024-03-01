@@ -1,6 +1,17 @@
+# html to markdown
+markdownify==0.11.6
 # 数据库连接池
-sqlalchemy==1.3.23
+sqlalchemy==1.4.51
 psycopg2==2.9.9
 # 配置工具包
 dynaconf==3.2.4
-
+# Milvus
+pymilvus==2.3.6
+pyarrow>=12.0.0
+# Towhee
+towhee==1.1.3
+gradio==4.19.1
+transformers==4.37.2
+torch==2.2.0
+torchvision==0.17.0
+langchain==0.1.8

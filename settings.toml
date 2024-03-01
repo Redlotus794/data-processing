@@ -1,4 +1,14 @@
 [local]
 ENV_NAME = 'local'
-DEBUG='True'
-DB_URL= 'postgresql://wangjialong:123456@localhost:5432/dragon_db'
+DEBUG=0
+DB_URL='postgresql://wangjialong:123456@localhost:5432/dragon_db'
+MILVUS_URL='127.0.0.1'
+MILVUS_PORT='19530'
+
+
+[prod]
+ENV_NAME = 'prod'
+DEBUG='False'
+DB_URL=''
+MILVUS_URL='127.0.0.1'
+MILVUS_PORT='19530'

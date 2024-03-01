@@ -1,0 +1,20 @@
+﻿question,answer
+UK By Rule Allocation Scene的配车报告是哪个版本上线的？,S9.3.20240202.PRD
+我需要一些关于南美Pending Warehouse更改的版本,S8.6.20231214.PRD
+哪个改动涉及到了分支 bugfix-20600-GdsShippingAllocationError-20230731,S6.4.20230802.PRD
+哪些改动涉及ShortageETA的处理,S9.3.20240202.PRD
+BCA相关的改动有哪些版本,S9.5.20240205.PRD
+Gate Out页面是哪个版本新增Download功能的,S8.5.20231204.PRD
+SMUK - 配车报告 相关更改,S9.3.20240202.PRD
+系统内存监控的改动版本,S7.5.20231030.PRD
+南美Invoice query by vin字段更改记录,S7.5.20231030.PRD
+英国发票取消后出库凭证取消日期取值错误的issue,S7.1.20230922.PRD
+内外饰颜色CODE需要能够支持数字的改动,S7.1.20230922.PRD
+BUG-20600是关于什么问题的修复,S6.4.20230802.PRD
+英国区域解决的BUG中，哪个是关于循环调用接口的问题,S6.4.20230802.PRD
+BUG-20591修复了哪个具体问题?,S6.4.20230802.PRD
+关于allocate页面和allocate设置页面的shipping detail的bug,S6.8.20230823.PRD
+PRD 发版日志 的列表内容,1049852.md
+Global DCS-Vehicle的发版日志模板,1049856.md
+Offline Vehicles Maintain页面 相关更改,S7.2.20231017.PRD
+有关于 Allocate Rule Setting 的修改内容,S7.3.20231023.PRD
